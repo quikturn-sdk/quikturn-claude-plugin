@@ -1,0 +1,8 @@
+{
+  "name": "quikturn",
+  "version": "0.1.0",
+  "description": "Company logo search and retrieval for pitch decks, CIMs, teasers, and financial presentations via the Quikturn logo database",
+  "author": {
+    "name": "Quikturn"
+  }
+}
