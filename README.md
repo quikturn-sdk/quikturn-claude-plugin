@@ -6,7 +6,7 @@ Built for [Claude Cowork](https://claude.com/product/cowork), also compatible wi
 
 ## What It Does
 
-Connects Claude to Quikturn's database of thousands of company logos via [MCP](https://modelcontextprotocol.io). When Claude is building or populating a presentation, it can automatically search for, select, and insert the right logo — no manual downloading, resizing, or formatting.
+Connects Claude to Quikturn's database of millions of company logos via [MCP](https://modelcontextprotocol.io). When Claude is building or populating a presentation, it can automatically search for, select, and insert the right logo — no manual downloading, resizing, or formatting.
 
 **Three MCP tools:**
 
